@@ -1,7 +1,7 @@
 {
   "name": "string2object",
   "version": "0.0.1",
-  "description": "",
+  "description": "Convert to Object for the string like object.",
   "main": "lib/string2object.js",
   "dependencies": { },
   "devDependencies": {
