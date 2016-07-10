@@ -1,6 +1,6 @@
 # string2object.js
 Convert to Object for the string like object.
-This library use `new Function`. So, to validate the input value . for XSS countermeasures.
+This library use `new Function`. So, to validate the input value, for XSS countermeasures.
 
 ## Usage
 ```
